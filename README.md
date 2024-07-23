@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aidhen
 - 👀 I’m interested in videogames and programming
-- 🌱 I’m currently learning artificial intelligence
+- 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on creating simple videogames
 
 
