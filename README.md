@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Aidhen
-- 👀 I’m interested in videogames and programming
-- 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on creating simple videogames
+# Hi, I'm Aidhen 👋
 
+I write code to build stuff on the web and mess around with game dev on the side. I love clean architectures, and making things that are actually fun to use.
 
-<!---
-Aidhen/Aidhen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💻 What I'm up to right now
+
+* **Building at Inproov:** Writing complex React/TS modules and architecting solid Django backends without making the ORM cry.
+* **Tinkering with Multiplayer:** Developing *(NON) Binary Games*, a real-time puzzle platform. Heavy on Node.js, Redis, and WebSockets, all neatly wrapped in Docker.
+* **Making Games:** Experimenting with game logic and interactive storytelling using Godot and RenPy.
+
+## 🛠 The Stack
+
+* **Frontend:** React, TypeScript, Next.js
+* **Backend:** Python, Django
+* **Ops & Data:** Docker, Kubernetes, GitHub Actions, PostgreSQL
